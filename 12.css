@@ -1,0 +1,274 @@
+.container  {
+
+position: absolute;
+width: 1307px;
+height: 844px;
+left: 100px;
+
+
+
+
+	
+}
+
+.header {
+	
+	
+
+
+}
+
+.pols{
+	
+
+
+
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 1423px;
+height: 14px;
+left: 17px;
+top: 490px;
+
+background: #FFFFFF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+	
+	
+}
+
+
+.p1olgsa{
+
+position: absolute;
+width: 540px;
+height: 14px;
+left: -1px;
+top: 0.01px;
+
+background: #FFFFFF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+}
+
+.wtf{
+	
+	
+position: absolute;
+width: 1021px;
+height: 360px;
+left: 45px;
+top: 537px;
+text-decoration: none;
+font-family: mine.ttf;
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 74px;
+
+color: #FFFFFF;
+	
+	
+}
+
+.who{
+	
+	position: absolute;
+width: 1021px;
+height: 360px;
+left: 45px;
+top: 617px;
+text-decoration: none;
+font-family: 'Minecraft';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 74px;
+
+color: #FFFFFF;
+	
+	
+
+}
+
+
+.zav{
+	
+	position: absolute;
+width: 1021px;
+height: 360px;
+left: 45px;
+top: 703px;
+text-decoration: none;
+font-family: 'Minecraft';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 74px;
+
+color: #FFFFFF;
+	
+	
+	
+	
+}
+
+
+.polska{
+
+position: absolute;
+width: 540px;
+height: 14px;
+left: 1px;
+top: 293px;
+
+background: #FFFFFF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+	
+	
+}
+
+.polska1{
+
+position: absolute;
+width: 540px;
+height: 14px;
+left: 1px;
+top: 177px;
+
+background: #FFFFFF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+}
+	
+	
+	.polska12{
+
+position: absolute;
+width: 540px;
+height: 14px;
+left: 1px;
+top: 90px;
+
+background: #FFFFFF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+}
+	
+	
+.pd{
+	
+position: absolute;
+width: 1443px;
+height: 14px;
+left: -14px;
+top: -1812px;
+
+background: rgba(255, 255, 255, 0.6);
+transform: matrix(1, 0, 0, -1, 0, 0);
+	
+	
+	
+}
+
+.als {
+	position: absolute;
+width: 276px;
+height: 126px;
+left: -10px;
+top: 40px;
+
+
+	
+	
+}
+
+.cop{
+	position: absolute;
+width: 1021px;
+height: 360px;
+left: 400px;
+top: 2590px;
+
+font-family: 'Minecraft';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 50px;
+
+color: rgba(255, 255, 255, 0.6);
+
+	
+	
+	
+	
+}
+
+.cube{
+	position: absolute;
+width: 720px;
+height: 696px;
+left: 698px;
+top: 797px;
+
+
+border-radius: 138px;
+	
+	
+	
+}
+
+.lf{
+	position: absolute;
+width: 1375px;
+height: 687px;
+left: 425px;
+top: 806px;
+
+
+	
+	
+	
+}
+
+
+
+
+.serv{
+	
+
+
+position: absolute;
+width: 1021px;
+height: 360px;
+left: 200px;
+top: 1215px;
+
+font-family: 'Minecraft';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 74px;
+
+color: #FFFFFF;
+
+
+	
+	
+	
+}
+
+
+.vid{
+	
+position: absolute;
+width: 1021px;
+height: 360px;
+left: -10px;
+top: 300px;	
+	
+	
+	
+	
+}
